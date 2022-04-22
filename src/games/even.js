@@ -1,5 +1,5 @@
 import randomInt from '../random.js';
-import runGame from '../engine.js';
+import runGame from '../cli-even.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
