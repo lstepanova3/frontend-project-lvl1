@@ -4,3 +4,4 @@
 [![Actions Status](https://github.com/lstepanova3/frontend-project-lvl1/workflows/Node_CI/badge.svg)](https://github.com/lstepanova3/frontend-project-lvl1/actions)
 [![asciicast](https://asciinema.org/a/jHypCsb8dw48Xn68NRMgYj8fw.svg)](https://asciinema.org/a/jHypCsb8dw48Xn68NRMgYj8fw)
 [![asciicast](https://asciinema.org/a/XRnaFRqBn6hp36mTpr4zBGMWn.svg)](https://asciinema.org/a/XRnaFRqBn6hp36mTpr4zBGMWn)
+[![asciicast](https://asciinema.org/a/NU4xeHTNTPV7s369BE1tNPLf8.svg)](https://asciinema.org/a/NU4xeHTNTPV7s369BE1tNPLf8)
