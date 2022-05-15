@@ -1,5 +1,5 @@
 import randomInt from '../random.js';
-import runGame from '../cli-even.js';
+import runGame from '../index.js';
 
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 

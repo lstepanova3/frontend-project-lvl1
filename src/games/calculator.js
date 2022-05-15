@@ -1,5 +1,5 @@
 import randomInt from '../random.js';
-import runGame from '../cli-even.js';
+import runGame from '../index.js';
 
 const description = 'What is the result of the expression?';
 
